@@ -20,8 +20,8 @@ return {
   -- Set colorscheme to use
   -- colorscheme = "astrodark",
 
-  colorscheme = "tokyonight",
- 
+  colorscheme = "tokyonight-moon",
+
   -- Diagnostics configuration (for vim.diagnostics.config({...})) when diagnostics are on
   diagnostics = {
     virtual_text = true,
